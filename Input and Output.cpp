@@ -21,7 +21,7 @@ Note: If you plan on completing this challenge in C instead of C++, you'll need 
 
 Input Format
 
-A single line containing  space-separated integers: , , and .
+A single line containing 3 space-separated integers: a, b, and c.
 
 Constraints
 1 >= a, b, c <= 1000
