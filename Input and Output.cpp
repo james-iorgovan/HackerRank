@@ -34,7 +34,7 @@ Sample Input
 
 1 2 7
 Sample Output
-
+ 
 10
 Explanation
 
